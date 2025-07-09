@@ -1,9 +1,3 @@
-Of course. A professional and comprehensive `README.md` is essential for any portfolio project. Here is an updated version that incorporates all the details of your application, the technology stack, and clear instructions for anyone wanting to run it.
-
-Just copy and paste the following content into your `README.md` file.
-
------
-
 # LogisticsGo - Flutter UI & Architecture Showcase
 
 LogisticsGo is a high-fidelity UI/UX prototype for a modern logistics application, built entirely with Flutter.
